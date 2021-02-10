@@ -1,2 +1,9 @@
 # ioi2021-thesis
-Speed test between kd-tree, range-tree and fractional-cascading.
+
+本项目用于公开在 IOI2021 集训队论文 《对信息学竞赛中二维平面处理问题的总结和再优化》 中 2.4.2 所提及的测速时的代码。
+
+测速的运行环境为 64 位 Windows 10 操作系统。
+
+CPU 为 Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHZ， 4 GB 内存。
+
+测试时间时开启 -O2 优化。
